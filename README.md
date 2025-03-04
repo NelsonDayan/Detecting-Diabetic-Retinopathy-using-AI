@@ -1,5 +1,5 @@
-# AI-Project
-Detecting Diabetic Retinopathy and its Severity 
+# DIabatic Retinopathy
+Diabetic Retinopathy (DR) is a serious eye condition that affects individuals with diabetes, caused by damage to the blood vessels in the retina due to prolonged high blood sugar levels. It is a leading cause of blindness worldwide, especially among working-age adults. The disease progresses through stages, starting with mild retinal swelling (non-proliferative DR) and potentially advancing to severe vision impairment due to abnormal blood vessel growth (proliferative DR). Early detection through regular eye exams  is crucial for preventing vision loss, as timely treatment with laser therapy, injections, or surgery can help manage the condition effectively.
 
 ## Installation :     
 *Install requirements.txt
